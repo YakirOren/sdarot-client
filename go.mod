@@ -6,7 +6,6 @@ require (
 	github.com/AlecAivazis/survey/v2 v2.3.6
 	github.com/YakirOren/sdarot v1.0.1
 	github.com/briandowns/spinner v1.23.0
-	github.com/dustin/go-humanize v1.0.1
 	github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b
 	github.com/schollz/progressbar/v3 v3.13.1
 	github.com/sirupsen/logrus v1.9.0
