@@ -15,10 +15,6 @@ archives:
       linux: Linux
       windows: Windows
       amd64: x86_64
-brews:
-  - tap:
-      owner: YakirOren
-      name: sdarot
 checksum:
   name_template: 'checksums.txt'
 snapshot:
